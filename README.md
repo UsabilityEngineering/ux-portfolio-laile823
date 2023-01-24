@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+I'm Lai Le, a computer science major from Chico State. 
 
 ## UX Team Project
 
