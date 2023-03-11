@@ -2,6 +2,8 @@
 
 I'm Lai Le, a computer science major from Chico State. This is my UX portfolio where I take a dive into the usuability of products and their user experience. 
 
+![](homepage_pic.jpeg)
+
 ## UX Team Project
 
 Coming soon.
