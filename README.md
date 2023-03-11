@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[My experience with iPad's speacial keyboard](j01/)
