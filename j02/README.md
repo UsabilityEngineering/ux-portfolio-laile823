@@ -2,7 +2,7 @@
 
 As a student, I am mostly using my iPad to take notes during class. Tablets nowadays have become so popular amongst students due to the productivity boost they comes with. An important aspect for a note taking tool, like the tablet, is its ability to organize and modify at a fast pace. Combined with the Apple Pencil, writing notes on the iPad is a breeze. However, if you would like to type your notes, then the utilization of the Apple Pencil is not needed. The incorporation of a physical keyboard (or the digitial keyboard) is required—thus creating further steps to reach the same goal.  
 
-The iPhone Operating System (iOS) has a keyboard that demonstrates a good application of **“Match[ing] between system and the real world”,** quoted from a usability guideline that aids in the creation of more **learnable** applications. The interface originates from the common “QWERTY” style keyboards that the majority of people have on their desk. Below is an image of the standard QWERTY keyboard in comparison to the iPhone's keyboard:   
+The iPhone Operating System (iOS) has a keyboard that demonstrates a good application of **“Match[ing] between system and the real world”,** from a usability guideline that aids in the creation of more **learnable** applications. The interface originates from the common “QWERTY” style keyboards that the majority of people have on their desk. Below is an image of the standard QWERTY keyboard in comparison to the iPhone's keyboard:   
 
 ![standard keyboard](/ux-portfolio-laile823/assets/qwerty.jpeg)
 
