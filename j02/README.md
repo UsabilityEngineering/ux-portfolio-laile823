@@ -1,4 +1,4 @@
-# iPad's Special Keyboard
+# iPad's Special Keyboard (edited)
 
 As a student, I am mostly using my iPad to take notes during class. Tablets nowadays have become so popular amongst students due to the productivity boost they comes with. An important aspect for a note taking tool, like the tablet, is its ability to organize and modify at a fast pace. Combined with the Apple Pencil, writing notes on the iPad is a breeze. However, if you would like to type your notes, then the utilization of the Apple Pencil is not needed. The incorporation of a physical keyboard (or the digitial keyboard) is required—thus creating further steps to reach the same goal.  
 
