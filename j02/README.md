@@ -17,7 +17,7 @@ When typing a password, it is often required to include a symbol or special char
 ![ipad keyboard2](/ux-portfolio-laile823/assets/IMG_0189.jpeg)
 ![ipad keyboard3](/ux-portfolio-laile823/assets/IMG_0190.jpeg)
 
-In conclusion, the new user’s experience with the iPad keyboard is not a good one. In my opinion, they should have stayed with the standard iOS keyboard layout. Or, if Apple’s goal was to make the iPad keyboard closer to the standard QWERTY they should have had the exclamation point above the 1 instead of the comma with all the symbols following suit. This would have way better fit the **model image** of the standard keyboard and resulted with a **conceptual model** that was very different from the mental one.
+In conclusion, the new user’s experience with the iPad keyboard is not a good one. In my opinion, they should have stayed with the standard iOS keyboard layout. Or, if Apple’s goal was to make the iPad keyboard closer to the standard QWERTY, they should have had the exclamation point above the 1 instead of the comma with all the symbols following suit. This would have way better fit the **model image** of the standard keyboard and resulted in a **conceptual model** that was very different from the mental one.
 
 
 
