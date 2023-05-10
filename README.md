@@ -11,3 +11,4 @@ Coming soon.
 ## UX Journal
 
 [My experience with iPad's special keyboard](j01/)
+[My experience with iPad's special keyboard (edited)](j02/)
